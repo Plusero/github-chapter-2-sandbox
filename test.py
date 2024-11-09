@@ -1,2 +1,2 @@
-def dijkstra(graph, start, end):
+def dijsktra(graph, start, end):
     raise NotImplementedError("Not implemented")
